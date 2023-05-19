@@ -34,8 +34,7 @@ function convert_classic_to_gutenberg_register_page() {
         __( 'Classic to Gutenberg', 'classic-to-gutenberg' ),
         'manage_options',
         'classic-to-gutenberg',
-        'convert_classic_to_gutenberg_page',
-        'dashicons-schedule'
+        'convert_classic_to_gutenberg_page'
     );
 }
 
